@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "68233cfef26223fa296ef129"
+  },
+  "Nama_Hewan": "Katak",
+  "jenis_Hewan": "amfibi",
+  "jumlah_kaki": "4"
+},
+{
+  "_id": {
+    "$oid": "68233dd6f26223fa296ef12a"
+  },
+  "Nama_Hewan": "bebek",
+  "jenis_Hewan": "unggas",
+  "jumlah_kaki": "2"
+},
+{
+  "_id": {
+    "$oid": "68233e38f26223fa296ef12b"
+  },
+  "Nama_Hewan": "ayam",
+  "jenis_Hewan": "unggas",
+  "jumlah_kaki": "2"
+}]
