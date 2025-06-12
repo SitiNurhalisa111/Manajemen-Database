@@ -1,0 +1,1 @@
+db.siswa.find({umur: {$gt: 16}});
