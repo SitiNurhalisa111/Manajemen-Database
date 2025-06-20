@@ -1,5 +1,3 @@
-finallisa2
-ReferenceError: finallisa2 is not defined
 use finallisa2
 switched to db finallisa2
 db.createCollection("Mahasiswa");
